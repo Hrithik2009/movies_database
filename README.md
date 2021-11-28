@@ -1,7 +1,7 @@
 # movies_database
 #### 1. Create database
 ![database](https://user-images.githubusercontent.com/69906816/143770832-f83d883a-90b2-4a6c-8503-a1dbb832371f.png)
-#### 2. Crate table
+#### 2. Create table
 ![table](https://user-images.githubusercontent.com/69906816/143770968-ed7516ec-2b02-4ece-9f6f-707269420975.png)
 #### 3. Insert data
 ![insert](https://user-images.githubusercontent.com/69906816/143771002-0eca707a-8fe0-4b50-84b2-20368090f096.png)
